@@ -14,6 +14,8 @@
 
 
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="100">
+
 <br>   
 
 - **Front-End Development**:
