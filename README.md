@@ -45,7 +45,7 @@ I enjoy exploring new technologies, building projects, and pushing my skills to 
 
 ## 📫 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/m.g_530/" target="_blank">
+  <a href="https://www.linkedin.com/in/mg530" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:s.m.g.05300@gmail.com" target="_blank">
