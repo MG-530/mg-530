@@ -81,9 +81,6 @@ fun_fact: "I talk to bugs more than people."
 
 ## 🏔️ 3D Contribution Calendar
 
-> *Requires the `profile-3d.yml` workflow to be set up in your profile repo.*  
-> *After first run, the image below will animate your contributions in 3D.*
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mg-530/mg-530/main/profile-3d-contrib/profile-green-animate.svg" width="80%" />
 </p>
